@@ -65,8 +65,27 @@ Towntalk is a cross-platform application designed to meet the needs of local res
      ```
 
 ## Screenshots
+Home page
+![image](https://github.com/user-attachments/assets/c732507f-03f6-4725-b32b-3fbab46a1058)
+User Profile
+![image](https://github.com/user-attachments/assets/3d2620ee-ca51-4da1-a166-b13851b24deb)
+local and Global Weather
+![image](https://github.com/user-attachments/assets/b1a0a22f-d701-47c5-a8ee-1909c1ccd112)
+job portal
+![image](https://github.com/user-attachments/assets/8dd64931-5730-476f-b353-6bf0f085c277)
+Local Store
+![image](https://github.com/user-attachments/assets/561bfab8-5528-453e-a122-29a5a423e631)
+Property Rental
+![image](https://github.com/user-attachments/assets/d2ea2180-d74e-4bbb-a749-4d6b4424cd49)
 
-![image](https://github.com/user-attachments/assets/1ca6a66b-48f7-4ba8-bcb3-11dad75ebd3e)
+Community page
+
+![image](https://github.com/user-attachments/assets/cdc81531-d62c-4a0b-b0dc-8a6dc0693850)
+
+
+
+
+
 
 
 
