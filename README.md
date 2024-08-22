@@ -1,1 +1,78 @@
-# Capstone
+Here’s a revised version of your README that improves clarity and consistency:
+
+---
+
+# Towntalk: A Community Cross-Platform App
+
+**Project Name**: Towntalk
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
+
+## Introduction
+
+Towntalk is a cross-platform application designed to meet the needs of local residents by offering a centralized platform for accessing various community services and information. Key features include a job portal, local weather updates, property rental listings, a complaint box, news feeds, event calendars, messaging functionality, and resource directories. This document outlines the development and implementation plan for Towntalk, aiming to enhance community engagement, streamline access to essential services, and foster communication among residents.
+
+## Features
+
+- **Job Portal**: Browse, search, and apply for local job listings.
+- **Property Rental**: Search for available properties for rent and contact property owners/agents.
+- **Complaint Box**: Submit complaints, feedback, or suggestions regarding community issues or services.
+- **News Feeds**: Access up-to-date news relevant to the local community, including articles on events, developments, and announcements.
+- **Event Calendars**: View upcoming local events, meetings, and activities.
+- **Messaging Functionality**: Communicate with other users via direct messaging or group chats.
+- **Resource Directories**: Access a comprehensive directory of local resources, including government services, healthcare facilities, schools, businesses, and more.
+
+## Technologies Used
+
+- **Backend**: FastAPI, Express, Node.js
+- **Database**: MongoDB, Firebase
+- **Frontend**: React Native, React
+- **Other**: HTML, CSS, JavaScript
+
+## Installation
+
+1. **Download the Repository**:
+   - Clone the repository or download the zip file and extract it to your local machine.
+
+2. **Navigate to the Project Directory**:
+   - Open the extracted folder in VS Code or another code editor.
+   - Use the terminal to navigate to the project directory:
+     ```bash
+     cd capstone-main
+     ```
+
+3. **Install Dependencies**:
+   - Install all required modules:
+     ```bash
+     npm install
+     ```
+
+4. **Run the Application**:
+   - To run the project on different platforms (Android, iOS, Web):
+     ```bash
+     npm start
+     ```
+   - For the best UI experience on a web browser:
+     ```bash
+     npm run web
+     ```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/1ca6a66b-48f7-4ba8-bcb3-11dad75ebd3e)
+
+
+
+## Contact
+
+**Author**: Seelam Nagi Reddy  
+**Email**: [nagireddy11213@gmail.com](mailto:nagireddy11213@gmail.com)  
+**GitHub**: [NAGIREDDY-SEELAM](https://github.com/NAGIREDDY-SEELAM)
+
