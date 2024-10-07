@@ -14,6 +14,7 @@ Here’s a revised version of your README that improves clarity and consistency:
 - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
+- [Project Demo](#Demo)
 
 ## Introduction
 
@@ -104,7 +105,10 @@ Community page
 **Author**: Seelam Nagi Reddy  
 **Email**: [nagireddy11213@gmail.com](mailto:nagireddy11213@gmail.com)  
 **GitHub**: [NAGIREDDY-SEELAM](https://github.com/NAGIREDDY-SEELAM)
-**Demo Video**: [NAGIREDDY-SEELAM](https://drive.google.com/file/d/1euXsL2CWNdCqvJ2x9itHafWq0HeTqRQJ/view?usp=sharing)
+
+## Demo
+
+**Demo Video**: [Demo video](https://drive.google.com/file/d/1euXsL2CWNdCqvJ2x9itHafWq0HeTqRQJ/view?usp=sharing)
 
 
 
