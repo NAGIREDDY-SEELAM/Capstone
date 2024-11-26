@@ -14,7 +14,9 @@ Here’s a revised version of your README that improves clarity and consistency:
 - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
+- [Collaborators](#Collaborators)
 - [Project Demo](#Demo)
+
 
 ## Introduction
 
@@ -105,6 +107,19 @@ Community page
 **Author**: Seelam Nagi Reddy  
 **Email**: [nagireddy11213@gmail.com](mailto:nagireddy11213@gmail.com)  
 **GitHub**: [NAGIREDDY-SEELAM](https://github.com/NAGIREDDY-SEELAM)
+
+
+
+## Collaborators
+
+
+Nagi reddy  
+Nivedita Kokil
+Vedish Kabara
+Daksh Singh
+Pranav Gupta
+
+
 
 ## Demo
 
