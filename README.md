@@ -113,11 +113,11 @@ Community page
 ## Collaborators
 
 
-** Nagi reddy  **
-** Nivedita Kokil **
-** Vedish Kabara **
-** Daksh Singh **
-** Pranav Gupta **
+- **Nagi reddy**
+- **Nivedita Kokil**
+- **Vedish Kabara**
+- **Daksh Singh**
+- **Pranav Gupta**
 
 
 
