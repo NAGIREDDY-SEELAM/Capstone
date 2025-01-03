@@ -123,7 +123,7 @@ Community page
 
 ## Demo
 
-**Demo Video**: [Demo video]([https://drive.google.com/file/d/1euXsL2CWNdCqvJ2x9itHafWq0HeTqRQJ/view?usp=sharing](https://drive.google.com/file/d/1AZrY6WUTRDTJiOO_DFkWAxUyOHJU69O5/view?usp=sharing))
+**Demo Video**: [Demo video](https://drive.google.com/file/d/1AZrY6WUTRDTJiOO_DFkWAxUyOHJU69O5/view?usp=sharing)
 
 
 
