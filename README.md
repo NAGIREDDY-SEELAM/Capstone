@@ -1,6 +1,3 @@
-Here’s a revised version of your README that improves clarity and consistency:
-
----
 
 # Towntalk: A Community Cross-Platform App
 
